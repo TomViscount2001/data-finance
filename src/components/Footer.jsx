@@ -37,7 +37,7 @@ const Footer = () => {
             <li className='py-2 text-sm'>Pricing</li>
             <li className='py-2 text-sm'>Documentation</li>
             <li className='py-2 text-sm'>Guides</li>
-            <li className='py-2 text-sm'>API Status</li>
+            <li className='py-2 text-s'>API Status</li>
         </ul>
     </div>
     <div>
